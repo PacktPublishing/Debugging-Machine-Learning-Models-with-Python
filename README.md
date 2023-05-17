@@ -1,2 +1,2 @@
-# Debugging-Machine-Learning-Models
-Debugging Machine Learning Models, published by Packt
+# Debugging-Machine-Learning-Models-with-Python
+Debugging Machine Learning Models with Python, published by Packt
