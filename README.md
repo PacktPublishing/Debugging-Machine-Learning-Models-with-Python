@@ -30,10 +30,10 @@ The code will look like the following:
 ```
 import pandas as pd
 orig_df = pd.DataFrame({
-'age': [45, 43, 54, 56, 54, 52, 41],
-'gender': ['M', 'F', 'F', 'M', 'M', 'F', 'M'],
-'group': ['H1', 'H1', 'H2', 'H3', 'H2', 'H1', 'H3'],
-'target': [0, 0, 1, 0, 1, 1, 0]})
+    'age': [45, 43, 54, 56, 54, 52, 41],
+    'gender': ['M', 'F', 'F', 'M', 'M', 'F', 'M'],
+    'group': ['H1', 'H1', 'H2', 'H3', 'H2', 'H1', 'H3'],
+    'target': [0, 0, 1, 0, 1, 1, 0]})
 ```
 
 **Following is what you need for this book:**
@@ -50,9 +50,9 @@ With the following software and hardware list you can run all code files present
 
 
 ### Related products <Other books you may enjoy>
-*Python Machine Learning By Example [[Packt]](https://www.packtpub.com/product/python-machine-learning-by-example-third-edition/9781800209718) [[Amazon]](https://www.amazon.in/Python-Machine-Learning-Example-Hayden/dp/1783553111)
+* Python Machine Learning By Example [[Packt]](https://www.packtpub.com/product/python-machine-learning-by-example-third-edition/9781800209718) [[Amazon]](https://www.amazon.in/Python-Machine-Learning-Example-Hayden/dp/1783553111)
 
-* <Book name #2 from backmatter> [[Packt]](https://www.packtpub.com/product/python-machine-learning-cookbook-second-edition/9781789808452) [[Amazon]](https://www.amazon.com/dp/<10P-ISBN>)
+* Python Machine Learning By Example [[Packt]](https://www.packtpub.com/product/python-machine-learning-cookbook-second-edition/9781789808452) [[Amazon]](https://www.amazon.in/Python-Machine-Learning-Example-Hayden/dp/1783553111)
 
 ## Get to Know the Author
 **Ali Madani** worked as the director of machine learning at Cyclica Inc leading AI technology development front of Cyclica for drug discovery before acquisition of Cyclica by Recursion Pharmaceuticals. Ali completed his PhD focusing on machine learning modeling in cancer setting and attained a master of mathematics from the University of Waterloo. He has also published more than twenty scientific articles in high impact factor journals on applications of machine learning and statistical modeling in healthcare. As a believer in industry-oriented education and pro-democratization of knowledge, Ali has actively educated students and professionals through international workshops and courses on basic and advanced high-quality machine learning modeling.
