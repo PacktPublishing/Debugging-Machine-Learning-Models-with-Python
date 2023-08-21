@@ -52,7 +52,7 @@ With the following software and hardware list you can run all code files present
 ### Related products <Other books you may enjoy>
 * Python Machine Learning By Example [[Packt]](https://www.packtpub.com/product/python-machine-learning-by-example-third-edition/9781800209718) [[Amazon]](https://www.amazon.in/Python-Machine-Learning-Example-Hayden/dp/1783553111)
 
-* Python Machine Learning By Example [[Packt]](https://www.packtpub.com/product/python-machine-learning-cookbook-second-edition/9781789808452) [[Amazon]](https://www.amazon.in/Python-Machine-Learning-Example-Hayden/dp/1783553111)
+* Python Machine Learning Cookbook - Second Edition [[Packt]](https://www.packtpub.com/product/python-machine-learning-cookbook-second-edition/9781789808452) [[Amazon]](https://www.amazon.in/Python-Machine-Learning-Cookbook-real-world/dp/1789808456)
 
 ## Get to Know the Author
 **Ali Madani** worked as the director of machine learning at Cyclica Inc leading AI technology development front of Cyclica for drug discovery before acquisition of Cyclica by Recursion Pharmaceuticals. Ali completed his PhD focusing on machine learning modeling in cancer setting and attained a master of mathematics from the University of Waterloo. He has also published more than twenty scientific articles in high impact factor journals on applications of machine learning and statistical modeling in healthcare. As a believer in industry-oriented education and pro-democratization of knowledge, Ali has actively educated students and professionals through international workshops and courses on basic and advanced high-quality machine learning modeling.
