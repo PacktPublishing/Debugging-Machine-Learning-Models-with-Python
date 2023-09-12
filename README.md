@@ -1,6 +1,6 @@
 # Debugging Machine Learning Models with Python
 
-<a href="https://www.amazon.in/Debugging-Machine-Learning-Models-Python-ebook/dp/B0C6KTGZLC"><img src="https://m.media-amazon.com/images/I/4150LjntFsL.jpg" alt="Debugging Machine Learning Models with Python" height="256px" align="right"></a>
+<a href="https://www.amazon.in/Debugging-Machine-Learning-Models-Python-ebook/dp/B0C6KTGZLC"><img src="https://m.media-amazon.com/images/I/615VPxdN2lL._SY466_.jpg" alt="Debugging Machine Learning Models with Python" height="256px" align="right"></a>
 
 This is the code repository for [Debugging Machine Learning Models with Python](https://www.amazon.in/Debugging-Machine-Learning-Models-Python-ebook/dp/B0C6KTGZLC), published by Packt.
 
