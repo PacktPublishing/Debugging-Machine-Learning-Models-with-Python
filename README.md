@@ -14,6 +14,14 @@ Code: <b>USD75OFF</b>
 
 Code: <b>USD75OFF</b>
 
+
+### [Packt Conference : Put Generative AI to work on Oct 11-13 (Virtual)](https://packt.link/JGIEY)
+
+<b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b> 
+3 Days, 20+ AI Experts, 25+ Workshops and Power Talks 
+
+Code: <b>USD75OFF</b>
+
 # Debugging Machine Learning Models with Python
 
 <a href="https://www.packtpub.com/product/debugging-machine-learning-models-with-python/9781800208582"><img src="https://m.media-amazon.com/images/I/615VPxdN2lL._SY466_.jpg" alt="Debugging Machine Learning Models with Python" height="256px" align="right"></a>
