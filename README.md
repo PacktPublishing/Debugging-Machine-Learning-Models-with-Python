@@ -1,4 +1,11 @@
-# Debugging Machine Learning Models with Python
+
+### [Packt Conference : Put Generative AI to work on Oct 11-13 (Virtual)](https://packt.link/JGIEY)
+
+<b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b> 
+
+Learn from 20+ AI experts, 25+ power-talks and hands-on sessions to upskill and future proof your career.
+
+ Limited Time 50% discount using the code: <b>FLASH50</b># Debugging Machine Learning Models with Python
 
 <a href="https://www.packtpub.com/product/debugging-machine-learning-models-with-python/9781800208582"><img src="https://m.media-amazon.com/images/I/615VPxdN2lL._SY466_.jpg" alt="Debugging Machine Learning Models with Python" height="256px" align="right"></a>
 
